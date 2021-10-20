@@ -1,9 +1,9 @@
 # custom
-³o¬O±M¬°´ú¸Õ¥Îªºmicro:bit¿n¤ì
+Â³oÂ¬OÂ±MÂ¬Â°Â´ÃºÂ¸Ã•Â¥ÃŽÂªÂºmicro:bitÂ¿nÂ¤Ã¬
 ## License
 MIT
 ## Supported targets
 * for PXT/microbit
 (The metadata above is needed for package search.)
 ```package
-custom=github:ufoearth/xxxxx
+custom=github:Bangli62/microbit
